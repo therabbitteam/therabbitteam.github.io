@@ -74,10 +74,6 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "modified"
-        field:
-          element: "hidden"
-          value: "CURRENT_DATETIME"
       - name: "title"
         field:
           element: "text"
@@ -112,3 +108,7 @@ prose:
               value: "rhm5"
             - name: "RHM4"
               value: "RHM4"
+      - name: "modified"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
