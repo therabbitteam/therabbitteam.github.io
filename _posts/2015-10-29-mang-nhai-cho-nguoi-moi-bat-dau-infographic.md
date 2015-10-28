@@ -1,6 +1,6 @@
 ---
 layout: post
-modified: "2015-10-29 00:11 +0700"
+modified: 2015-10-29
 excerpt: Rabbit team tóm tắt lại những điểm cơ bản của máng nhai để các bạn có cái nhìn tổng quát
 author: rabbit_team
 comments: true
