@@ -97,12 +97,12 @@ prose:
               value: "RHM5"
             - name: "RHM4"
               value: "RHM4"
-      - name: "comments"
-        field:
-          element: "checkbox"
-          label: "Allow user to comment on this post"
-          value: true
-      - name: "modified"
-        field:
-          element: "hidden"
-          value: "CURRENT_DATETIME"
+      # - name: "comments"
+      #   field:
+      #     element: "checkbox"
+      #     label: "Allow user to comment on this post"
+      #     value: true
+      # - name: "modified"
+      #   field:
+      #     element: "hidden"
+      #     value: "CURRENT_DATETIME"
