@@ -1,7 +1,7 @@
 # Authors
 
 hoang_quan:
-  name: QUÂN
+  name: Hoàng Quân
   web: http://thewhip.com
   email: billy@rick.com
   bio: "I am a simple guy who wants to change the world.."
@@ -10,8 +10,8 @@ hoang_quan:
   google:
     plus: BillyRick
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
+rabbit_team:
+  name: Rabbit Team
   email: cornelius@thewhip.com
   bio: "I ordered what?"
   avatar: bio-photo.jpg

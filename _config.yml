@@ -86,8 +86,8 @@ prose:
           placeholder: "Choose Tags"
           alterable: true
           options:
-            - name: "The Rabbit Team"
-              value: ""
+            - name: "Rabbit Team"
+              value: "rabbit_team"
             - name: "Hoàng Quân"
               value: "hoang_quan"
       - name: "excerpt"
