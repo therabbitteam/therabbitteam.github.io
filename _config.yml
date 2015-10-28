@@ -26,12 +26,12 @@ kramdown:
 # Site owner
 owner:
   name: Rabit Team
-  avatar: bio/bio_quan.jpg
+  avatar: bio-photo.jpg
   bio: "Describe about team"
   email:
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: rabbitassist
   google:
     plus: #username
     analytics:
@@ -39,7 +39,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: therabbitteam
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

@@ -13,8 +13,8 @@ hoang_quan:
 rabbit_team:
   name: Rabbit Team
   email: cornelius@thewhip.com
-  bio: "I ordered what?"
+  bio: "Bio goes here"
   avatar: bio-photo.jpg
   twitter: rhymeswithsackit
   google:
-    plus: CorneliusFiddlebone
+    plus: #CorneliusFiddlebone
