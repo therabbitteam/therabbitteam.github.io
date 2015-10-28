@@ -102,7 +102,7 @@ prose:
       #     element: "checkbox"
       #     label: "Allow user to comment on this post"
       #     value: true
-      # - name: "modified"
-      #   field:
-      #     element: "hidden"
-      #     value: "CURRENT_DATETIME"
+      - name: "modified"
+        field:
+          element: "hidden"
+          value: CURRENT_DATETIME
