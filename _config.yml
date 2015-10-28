@@ -79,6 +79,16 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "author"
+        field:
+          element: "select"
+          label: "Author"
+          placeholder: "Choose Authr"
+          options:
+            - name: "Rabbit Team"
+              value: "rabbit_team"
+            - name: "Hoàng Quân"
+              value: "hoang_quan"
       - name: "excerpt"
         field:
           element: "text"
