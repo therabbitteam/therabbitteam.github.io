@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "Learn the rule. Rule the game"
+excerpt: "ALL YOU NEED IS DIGITAL"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: cover.jpg
+  feature: sample-image-1.jpg
 ---

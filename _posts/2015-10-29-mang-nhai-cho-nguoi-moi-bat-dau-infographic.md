@@ -4,7 +4,7 @@ layout: post
 excerpt: Rabbit team tóm tắt lại những điểm cơ bản của máng nhai để các bạn có cái nhìn tổng quát
 author: rabbit_team
 comments: true
-tags: 
+tags:
   - rhm5
 published: true
 title: Máng nhai cho người mới bắt đầu (infographic)
@@ -31,8 +31,8 @@ Splint
 
 
 Còn đây là "máng nhai" -occlusal splint. (đáng ra phải dịch là máng/nẹp cố định khớp cắn)
- 
- 
+
+
 Nằm ngoài miệng này
 
 

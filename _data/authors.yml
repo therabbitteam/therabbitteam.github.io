@@ -12,9 +12,9 @@ hoang_quan:
 
 rabbit_team:
   name: Rabbit Team
-  email: cornelius@thewhip.com
-  bio: "Bio goes here"
+  email: #cornelius@thewhip.com
+  bio: "all you need is digital"
   avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+  twitter: #rhymeswithsackit
   google:
     plus: #CorneliusFiddlebone
