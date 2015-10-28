@@ -4,7 +4,7 @@ excerpt: Quân sẽ chỉ cho các bạn một số thủ thuật hoàn thành c
 tags: 
   - RHM6
 comments: true
-published: false
+published: true
 title: 24h hoàn tất chỉ tiêu BV RHMTW
 author: hoang_quan
 ---
