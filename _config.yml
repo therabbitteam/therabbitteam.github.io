@@ -64,7 +64,7 @@ prose:
   siteurl: 'http://therabbitteam.github.io'
   relativeLinks: 'http://therabbitteam.github.io/links.jsonp'
   media: 'images/posts'
-    metadata:
+  metadata:
     _posts:
       - name: "category"
         field:
