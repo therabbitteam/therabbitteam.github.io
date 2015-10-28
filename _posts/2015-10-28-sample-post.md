@@ -17,8 +17,6 @@ image:
   creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
 published: true
 ---
-
-
 <section id="table-of-contents" class="toc">
   <header>
     <h3>Overview</h3>
