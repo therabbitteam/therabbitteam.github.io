@@ -10,7 +10,7 @@ title: Máng nhai cho người mới bắt đầu (infographic)
 ---
 
 
-Khi mới bắt đàu học Cắn khớp, lần đầunghe đến từ "máng nhai", Q thắc mắc không thể mường tượng được "máng nhai" nó là cái mô tê chi. Hình trong sách thì mờ tịt, còn nếu dùng trí tưởng tượng thì lập tức nghĩ đến hình dưới đây.  (kidding)
+Khi mới bắt đầu học Cắn khớp, lần đầunghe đến từ "máng nhai", Q thắc mắc không thể mường tượng được "máng nhai" nó là cái mô tê chi. Hình trong sách thì mờ tịt, còn nếu dùng trí tưởng tượng thì lập tức nghĩ đến hình dưới đây.  (kidding)
 
 ![pig.jpg]({{site.baseurl}}/images/posts/pig.jpg)
 
