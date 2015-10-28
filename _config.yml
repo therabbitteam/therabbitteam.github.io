@@ -74,6 +74,10 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "modified"
+        field:
+          element: "hidden"
+          label: "CURRENT_DATETIME"
       - name: "title"
         field:
           element: "text"
@@ -82,21 +86,17 @@ prose:
         field:
           element: "text"
           label: "Excerpt"
-  #     - name: "author"
-  #       field:
-  #         element: "select"
-  #         label: "Author"
-  #         placeholder: "Choose Tags"
-  #         alterable: true
-  #         options:
-  #           - name: "Rabbit Team"
-  #             value: "rabbit_team"
-  #           - name: "Hoàng Quân"
-  #             value: "hoang_quan"
-  #     - name: "modified"
-  #       field:
-  #         element: "hidden"
-  #         label: "CURRENT_DATETIME"
+      - name: "author"
+        field:
+          element: "select"
+          label: "Author"
+          placeholder: "Choose Tags"
+          alterable: true
+          options:
+            - name: "Rabbit Team"
+              value: "rabbit_team"
+            - name: "Hoàng Quân"
+              value: "hoang_quan"
   #     - name: "comments"
   #       field:
   #         element: "checkbox"
