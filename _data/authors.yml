@@ -1,0 +1,20 @@
+# Authors
+
+hoang_quan:
+  name: QUÂN
+  web: http://thewhip.com
+  email: billy@rick.com
+  bio: "I am a simple guy who wants to change the world.."
+  avatar: bio/bio_quan.jpg
+  twitter: extravagantman
+  google:
+    plus: BillyRick
+
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone
