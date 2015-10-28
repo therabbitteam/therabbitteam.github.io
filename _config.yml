@@ -27,8 +27,8 @@ kramdown:
 # Site owner
 owner:
   name: Rabit Team
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  avatar: bio/bio_quan.jpg
+  bio: "Describe about team"
   email:
   disqus-shortname:
   twitter: #username
@@ -59,3 +59,57 @@ owner:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://therabbitteam.github.io'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "author"
+        field:
+          element: "select"
+          label: "Author"
+          placeholder: "Choose Tags"
+          alterable: true
+          options:
+            - name: "The Rabbit Team"
+              value: ""
+            - name: "Hoàng Quân"
+              value: "hoang_quan"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+      - name: "modified"
+        field:
+          element: "hidden"
+          label: "CURRENT_DATETIME"
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Allow user to comment on this post"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true
+          options:
+            - name: "RHM5"
+              value: "rhm5"
+            - name: "RHM4"
+              value: "RHM4"
