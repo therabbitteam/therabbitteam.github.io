@@ -68,16 +68,20 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
-  # metadata:
-  #   _posts:
-  #     - name: "layout"
-  #       field:
-  #         element: "hidden"
-  #         value: "post"
-  #     - name: "title"
-  #       field:
-  #         element: "text"
-  #         label: "Title"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "excerpt"
+        field:
+          element: "text"
+          label: "Excerpt"
   #     - name: "author"
   #       field:
   #         element: "select"
@@ -89,10 +93,6 @@ prose:
   #             value: "rabbit_team"
   #           - name: "Hoàng Quân"
   #             value: "hoang_quan"
-  #     - name: "excerpt"
-  #       field:
-  #         element: "textarea"
-  #         label: "Excerpt"
   #     - name: "modified"
   #       field:
   #         element: "hidden"
