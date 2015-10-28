@@ -77,7 +77,7 @@ prose:
       - name: "modified"
         field:
           element: "hidden"
-          label: "CURRENT_DATETIME"
+          value: "CURRENT_DATETIME"
       - name: "title"
         field:
           element: "text"
@@ -91,24 +91,24 @@ prose:
           element: "select"
           label: "Author"
           placeholder: "Choose Tags"
-          alterable: true
           options:
             - name: "Rabbit Team"
               value: "rabbit_team"
             - name: "Hoàng Quân"
               value: "hoang_quan"
-  #     - name: "comments"
-  #       field:
-  #         element: "checkbox"
-  #         label: "Allow user to comment on this post"
-  #     - name: "tags"
-  #       field:
-  #         element: "multiselect"
-  #         label: "Add Tags"
-  #         placeholder: "Choose Tags"
-  #         alterable: true
-  #         options:
-  #           - name: "RHM5"
-  #             value: "rhm5"
-  #           - name: "RHM4"
-  #             value: "RHM4"
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Allow user to comment on this post"
+          value: true
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true
+          options:
+            - name: "RHM5"
+              value: "rhm5"
+            - name: "RHM4"
+              value: "RHM4"
