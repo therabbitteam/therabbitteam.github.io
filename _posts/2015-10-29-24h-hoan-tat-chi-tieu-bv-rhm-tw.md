@@ -16,4 +16,5 @@ Xem info bên dưới nhé.
  
 ** Chú ý: thường các bạn lớp Q hay đi vào tầm 5-6h chiều, lúc đó vừa có lịch mổ ngày hôm sau nên dễ chọn bệnh nhân hơn.***
 
-![Chỉ tiêu bệnh viện RHM]({{site.baseurl}}/images/posts/BvRHMTW.jpg)
+![BvRHMTW.jpg]({{site.baseurl}}/images/posts/BvRHMTW.jpg)
+
