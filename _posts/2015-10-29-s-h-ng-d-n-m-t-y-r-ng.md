@@ -1,4 +1,5 @@
 ---
+layout: post
 modified: "2015-10-29 01:26 +0700"
 excerpt: Sơ đồ mở tủy răng sau đây sẽ giúp các bạn có cái nhìn toàn diện về từng bước mở tủy
 author: rabbit_team
